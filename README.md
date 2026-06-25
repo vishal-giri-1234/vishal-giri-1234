@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Om%20Dagduba%20Mehetre&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58" width="100%" />
 
-# Hi 👋, I'm Om Mehetre
+# Hi 👋, I'm Vishal Giri`
 
 ### Java Full Stack Developer | B.Tech CSE Student | DSA Enthusiast
 
